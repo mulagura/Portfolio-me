@@ -13,8 +13,8 @@ This repository contains my static website - portfolio.
 ## Contact Details
 
 Feel free to reach out to me:
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/venkata-ramana/)
-- GitHub: [Your GitHub Profile](https://github.com/mulagura)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/venkata-ramana/)
+- GitHub: [GitHub Profile](https://github.com/mulagura)
 - Email: mulagura@gmail.com
 - Phone: +1905-341-0458
 - Country: Canada
