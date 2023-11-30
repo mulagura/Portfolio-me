@@ -16,5 +16,5 @@ Feel free to reach out to me:
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/venkata-ramana/)
 - GitHub: [GitHub Profile](https://github.com/mulagura)
 - Email: mulagura@gmail.com
-- Phone: +1905-341-0458
+- Phone: +1(905)-341-0458
 - Country: Canada
